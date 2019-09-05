@@ -1,0 +1,16 @@
+This is the test made by dev branch
+<<<<<<< HEAD
+check stashing
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+make change
+check stashing
+Stashed changes
+=======
+check stashing
+>>>>>>> Stashed changes
+=======
+check stashing
+>>>>>>> Stashed changes
+>>>>>>> master

@@ -1,2 +1,6 @@
 This is the test made by dev branch
 check stashing
+make change
+check stashing
+Stashed changes
+
