@@ -1,8 +1,12 @@
 This is the test made by dev branch
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 make change
 check stashing
 Stashed changes
+=======
+check stashing
+>>>>>>> Stashed changes
 =======
 check stashing
 >>>>>>> Stashed changes
